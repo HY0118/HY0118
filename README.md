@@ -68,6 +68,6 @@
 
 ## 📬 Let's Connect!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
+- **Email**: [lhy.it.0118@gmail.com](mailto:lhy.it.0118@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/hayoung-lee-756b72332](https://www.linkedin.com/in/hayoung-lee-756b72332)
+- **Portfolio**: [https://nextjs-hayoung-space.vercel.app](https://nextjs-hayoung-space.vercel.app)
