@@ -1,57 +1,73 @@
-# 💻 [HaYoung Lee] - Front-End Developer
+# 💻 HaYoung Lee - Front-End Developer
 
-안녕하세요! 저는 **Next.js**와 **React**를 중심으로 웹 개발에 열정을 가지고 있는 프론트엔드 개발자입니다. 사용자 경험과 코드 품질을 중요하게 생각하며, 최신 기술을 학습하고 적용하는 것을 즐깁니다. ✨
+안녕하세요! 저는 **Next.js**와 **React**를 활용해 사용자 중심의 웹 애플리케이션을 개발하는 프론트엔드 개발자입니다. 최신 기술을 활용한 설계와 협업을 통해 비즈니스 가치를 창출하는 데 열정을 가지고 있습니다. 🎯
 
 ---
 
 ## 🌟 About Me
 
-- **직무 경험**: Front-End 개발 (3+ years)
-- **전문 기술**: Next.js, React, TypeScript, Redux, React Query
-- **추가 경험**: SEO 최적화, UI/UX 설계, RESTful API 통신, Styled-Components
-- **관심 분야**: 성능 최적화, 접근성(A11y), 프론트엔드 아키텍처 설계
-- **언어**: 한국어(모국어), 영어(업무 가능)
+- **학력**: 세종대학교 컴퓨터공학/응용통계학 부전공 (학사)
+- **경력**: 5년 이상의 웹 및 소프트웨어 개발 경험
+- **전문 기술**: Front-End 개발, 디자인 시스템 구축, RESTful API 설계 및 통신
+- **강점**: 
+  - 효율적인 UI/UX 설계 및 구현
+  - 팀과의 긴밀한 협업을 통한 프로젝트 완성도 향상
+  - SEO 최적화와 성능 개선에 대한 심도 있는 이해
 
 ---
 
 ## 📂 Career Highlights
 
-### 🏢 **[Company Name]** (YYYY.MM ~ 현재)
-- **역할**: Front-End Developer
-- **주요 성과**:
+### 🏢 **마이다스아이티** (2022.04 ~ 현재)
+#### **프로젝트: Flow, Tools**
+- **개요**: 설계 로직 데이터 계산 및 제품 연동 서비스 개발
+- **역할**: 전체 프로젝트 개발 리딩, UI/UX 설계 및 구현
+- **성과**:
   - Next.js 기반의 대규모 프로젝트 성공적으로 마이그레이션
   - SEO 최적화 작업으로 Google Lighthouse 점수 90+ 유지
+  - 다양한 설계 기준 반영으로 엔지니어 업무 효율성 증대
   - React Query 및 Axios를 사용해 API 요청 최적화
-  - 디자인 시스템 구축 및 컴포넌트 라이브러리 개발
+  - 제품 API 사용을 유도하여 신규 고객 전환율 상승
 
-### 🏢 **[Previous Company Name]** (YYYY.MM ~ YYYY.MM)
-- **역할**: Front-End Developer
-- **주요 성과**:
-  - 사용자 인터페이스(UI) 개선을 통한 이탈률 20% 감소
-  - HTML5 Canvas를 활용한 실시간 데이터 시각화 구현
-  - 협업 툴과 Git을 활용한 효과적인 팀워크 유지
+#### **프로젝트: Plugin 플랫폼**
+- **개요**: Plugin UI/UX 및 플랫폼 기획/개발, 디자인 시스템 구축
+- **성과**: 
+  - 신규 Plugin 도입으로 고객 만족도 및 업무 효율성 상승
+  - 디자인 시스템 구축을 통해 개발 접근성과 속도 대폭 개선
+
+---
+
+### 🏢 **인피니트헬스케어** (2019.07 ~ 2022.04)
+#### **프로젝트: PACS 의료 영상 소프트웨어**
+- **개요**: 의료 영상 판독/저장/전송 소프트웨어 유지보수 및 신규 기능 개발
+- **역할**: 제품 유지보수, 다국어 지원, 빌드 및 배포 관리
+- **성과**: 
+  - PACS 신규 기능 개발로 고객 전환 확대
+  - 빌드 자동화를 통해 배포 관리 효율성 상승
+  - 다국어 지원을 통한 해외 고객사 확장
 
 ---
 
 ## 🔧 Tech Stack
 
-| Front-End  | Tools       | Others                |
-|------------|-------------|-----------------------|
-| React      | Git/GitHub  | Agile/Scrum          |
-| Next.js    | Webpack     | Performance Tuning   |
-| TypeScript | Figma       | Accessibility (A11y) |
-| Redux      | Jira/Confluence | SEO Optimization  |
+| Front-End  | Back-End              | DevOps/Tools          | Tools       | Others                |
+|------------|-----------------------|-----------------------|-------------|-----------------------|
+| React      | Node.js, Deno         | Docker, Kubernetes    | Git/GitHub  | Agile/Scrum          |
+| Next.js    | MariaDB, Oracle DB    | Jenkins, GitHub Actions | Webpack     | Performance Tuning   |
+| TypeScript | RESTful API           | AWS (S3, ECS, Lambda)| SVN, FORK       | Accessibility (A11y) |
+| Recoil, MUI| DCMTK                 | Figma, Jira, Confluence | Jira/Confluence | SEO Optimization  |
 
 ---
 
 ## 📜 Certificates & Awards
-- **정보처리기사** (YYYY)
-- **[Award Name]** (YYYY)
+- **OCP (ORACLE)** (2018.03.13)
+- **SQLD (한국데이터산업진흥원)** (2021.04.16)
+- **ADsP (한국데이터산업진흥원)** (2021.09.24)
 
 ---
 
 ## 📬 Let's Connect!
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
