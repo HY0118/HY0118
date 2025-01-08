@@ -1,6 +1,7 @@
 # 💻 HaYoung Lee | Front-End Developer
 
-안녕하세요! 저는 **Next.js**와 **React**를 활용해 사용자 중심의 웹 애플리케이션을 개발하는 프론트엔드 개발자입니다. 최신 기술을 활용한 설계와 협업을 통해 비즈니스 가치를 창출하는 데 열정을 가지고 있습니다. 🎯
+안녕하세요! 저는 **Next.js**와 **React**를 활용해 사용자 중심의 웹 애플리케이션을 개발하는 프론트엔드 개발자입니다.
+최신 기술을 활용한 설계와 긍정적이고 활발한 동료와의 소통/협업을 통해 비즈니스 가치를 창출하는 데 열정을 가지고 있습니다. 🎯
 
 ---
 
@@ -29,7 +30,7 @@
   - React Query 및 Axios를 사용해 API 요청 최적화
   - 제품 API 사용을 유도하여 신규 고객 전환율 상승
 
-#### **프로젝트: Plugin 플랫폼**
+#### **프로젝트: Plugin 컨텐츠 / 플랫폼**
 - **개요**: Plugin UI/UX 및 플랫폼 기획/개발, 디자인 시스템 구축
 - **성과**: 
   - 신규 Plugin 도입으로 고객 만족도 및 업무 효율성 상승
@@ -50,12 +51,12 @@
 
 ## 🔧 Tech Stack
 
-| Front-End  | Back-End              | DevOps/Tools           | Collaboration |
-|------------|-----------------------|------------------------|---------------|
-| React      | Node.js, Deno         | Docker, Kubernetes     | Jira          |
-| Next.js    | MariaDB, Oracle DB    | AWS (S3, ECS, Lambda)  | Confluence    |
-| TypeScript | RESTful API           | Jenkins, GitHub Actions| Figma         |
-| Recoil, MUI| DCMTK                 | Git, Webpack           | SEO Optimization |
+| Front-End  | Back-End              | DevOps/Tools           | Collaboration     |
+|------------|-----------------------|------------------------|-------------------|
+| React      | Node.js, Deno         | Docker, Kubernetes     | Jira              |
+| Next.js    | MariaDB, Oracle DB    | AWS (S3, ECS, Lambda)  | Confluence        |
+| JS, TS     | RESTful API           | Jenkins, GitHub Actions| Figma             |
+| Recoil, MUI| DCMTK                 | Git, Webpack           | SEO Optimization  |
 
 ---
 
@@ -70,4 +71,4 @@
 
 - **Email**: [lhy.it.0118@gmail.com](mailto:lhy.it.0118@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/hayoung-lee-756b72332](https://www.linkedin.com/in/hayoung-lee-756b72332)
-- **Portfolio**: [https://nextjs-hayoung-space.vercel.app](https://nextjs-hayoung-space.vercel.app) - 프로젝트와 블로그로 저의 개발 여정을 확인해보세요!
+- **Portfolio**: [https://nextjs-hayoung-space.vercel.app](https://nextjs-hayoung-space.vercel.app) - 프로젝트와 블로그로 저의 개발 여정을 확인해보세요!❤️
