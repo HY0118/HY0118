@@ -69,7 +69,7 @@
 ---
 
 ## 📬 Let's Connect!
-
+- **Phone**: (+82) 010-6265-1182
 - **Email**: [lhy.it.0118@gmail.com](mailto:lhy.it.0118@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/hayoung-lee-756b72332](https://www.linkedin.com/in/hayoung-lee-756b72332)
 - **Portfolio**: [https://nextjs-hayoung-space.vercel.app](https://nextjs-hayoung-space.vercel.app) - 프로젝트와 블로그로 저의 개발 여정을 확인해보세요!❤️
